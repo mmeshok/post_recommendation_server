@@ -49,4 +49,4 @@ Cодержит информацию о всех пользователях со
 
 ### Пример выполнения запроса
 
-![Postman screenshot](postman.png)ЦЦ
+![Postman screenshot](postman.png)
