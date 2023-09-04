@@ -1,0 +1,17 @@
+fastapi
+pandas
+sqlalchemy
+requests
+catboost
+numpy
+pydantic
+scikit_learn
+psycopg2-binary
+uvicorn
+category-encoders
+loguru
+implicit
+lightfm
+python-dotenv
+nltk
+json
