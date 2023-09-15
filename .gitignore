@@ -1,3 +1,4 @@
 .env
 feed_data
 catboost_info/
+__pycache__/
